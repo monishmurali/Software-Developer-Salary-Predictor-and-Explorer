@@ -21,7 +21,7 @@ This project is a software developer salary predictor and explorer, built using 
 <img width="1418" alt="Screenshot 2024-04-30 at 12 16 19 AM" src="https://github.com/monishmurali/Software-Developer-Salary-Predictor-and-Explorer/assets/59603371/87d0173c-3e97-4d63-be4c-3122837a9e0a">
 
 
-##Explore
+## Explore
 
 
 <img width="1418" alt="Screenshot 2024-04-30 at 12 18 50 AM" src="https://github.com/monishmurali/Software-Developer-Salary-Predictor-and-Explorer/assets/59603371/22403059-e071-435b-923d-78b512cd9fb3">
